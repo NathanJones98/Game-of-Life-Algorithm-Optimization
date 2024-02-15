@@ -1,0 +1,4 @@
+teamName: walmartiswhereIlive
+student1_fullName: Nathan_Jones
+student1_studentNumber: 1005003023
+student1_email: nathan.jones@mail.utoronto.ca
